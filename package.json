@@ -1,0 +1,20 @@
+{
+  "name": "fortnite-stat",
+  "version": "1.0.0",
+  "description": "This displays the fortnite stat of a player",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "fortnite",
+    "discord"
+  ],
+  "author": "Anwesh Budhathoki",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fortnite": "^4.3.2"
+  }
+}
